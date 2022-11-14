@@ -1,0 +1,51 @@
+#div-container{
+width:600px;
+height:480px;
+border:3px solid black;
+border-radius:5px;
+background:pink
+}
+
+
+.left-upper-quarter-circle{
+display: inline-block;
+width:150px;
+height:150px;
+background:green;
+border:0px;
+border-radius: 150px 0 0 0;
+margin:0;
+padding:0;
+}
+
+.left-lower-quarter-circle{
+display: inline-block;
+width:150px;
+height:150px;
+background:white;
+border:0px;
+border-radius: 0 0 0 150px;
+margin:0;
+padding:0;
+}
+
+.right-upper-quarter-circle{
+display: inline-block;
+width:150px;
+height:150px;
+background:yellow;
+border:0px;
+border-radius: 0 150px 0 0;
+margin:0;
+padding:0;
+}
+
+.span-empty-style{
+display: inline-block;
+width: 130px;
+height: 150px;
+border: 0px;
+background:transparent;
+margin:0;
+padding:0;
+}
